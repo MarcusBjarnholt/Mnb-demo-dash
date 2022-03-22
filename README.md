@@ -1,2 +1,2 @@
-# Mnb-demo-dash
-4 sem demo af deploy Github Dash app to Azure
+# kea_dash_fakedata
+Demo af Dash med data fra en Excel fil - Deploy på Azure
